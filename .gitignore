@@ -56,3 +56,6 @@ desktop.ini
 # 작업 중 만든 백업 zip
 *_backup_*.zip
 merge_backup_*.zip
+
+# Unity 6가 만드는 새 솔루션 파일 형식
+*.slnx
