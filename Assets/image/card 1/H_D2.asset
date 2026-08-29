@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68fcef044cf50034fab0fea796bab391, type: 3}
+  m_Name: H_D2
+  m_EditorClassIdentifier: Assembly-CSharp::SkillCard
+  cardName: H_D2
+  cardImage: {fileID: 21300000, guid: ee8bdf6ba9c513f41afe57513c55e1ab, type: 3}
+  cardDescription: "\uC790\uC138\uC7A1\uAE30"
+  cardEffect: "\uB2E4\uC74C\uD134 \uACF5\uACA9\uB825 +7"
+  cardType: 1
+  category: 0
+  attackPower: 0
+  defensePower: 3
+  targetType: 0
+  additionalEffects:
+  - effectType: 17
+    scope: 0
+    value: 0
+    duration: 0
+    condition: 0
+    multiplier: 0

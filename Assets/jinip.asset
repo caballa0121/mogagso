@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd245c2ff0724c26aa065b9c215d42c, type: 3}
+  m_Name: jinip
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uACF5\uAC04\uC774 \uBC14\uB00C\uC5C8\uB2E4. \uC5B4\uCC0C\uB41C
+      \uC77C\uC774\uC9C0?"
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uC77C\uB2E8 \uCE68\uCC29\uD558\uAC8C \uC0C1\uD669\uC744 \uBD84\uC11D\uD574\uBCF4\uC790."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uB208\uC55E\uC5D0 \uBCF4\uC774\uB294 \uD53C\uC544\uB178\uC640
+      \uAE38\uC744 \uAC00\uB85C\uB9C9\uB294 \uB369\uCFE8\uB4E4\uC774 \uC218\uC0C1\uD558\uAD70."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: ...
+    portraitSprite: {fileID: 21300000, guid: 6c2276597967e4da18bd493cc3a0c715, type: 3}
+    dialogueText: ...
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uC800 \uB140\uC11D.."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uC774 \uB290\uB08C\uC740 \uBD84\uBA85\uD55C \uC0B4\uC758\uC778\uAC00."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: ...
+    portraitSprite: {fileID: 21300000, guid: 6c2276597967e4da18bd493cc3a0c715, type: 3}
+    dialogueText: "\uBAA8\uB4E0\uAC83\uC740 \uBB34\uB85C \uB3CC\uC544\uAC04\uB2E4."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: ...
+    portraitSprite: {fileID: 21300000, guid: 6c2276597967e4da18bd493cc3a0c715, type: 3}
+    dialogueText: "\uB108\uB3C4 \uAE30\uC5B5\uB3C4.."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0

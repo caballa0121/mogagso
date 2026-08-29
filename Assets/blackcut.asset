@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd245c2ff0724c26aa065b9c215d42c, type: 3}
+  m_Name: blackcut
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "...\uB2F9\uC2E0\uC744 \uC54C\uACE0 \uC788\uC5B4"
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: A
+    portraitSprite: {fileID: 21300000, guid: d79fd5d7dcf544c638cd6eb6159c7dd8, type: 3}
+    dialogueText: ...
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uADF8\uB807\uC9C0?"
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: A
+    portraitSprite: {fileID: 21300000, guid: d79fd5d7dcf544c638cd6eb6159c7dd8, type: 3}
+    dialogueText: "\uAE30\uC5B5\uD574\uB0B4\uB294\uAC74 \uB108\uC758 \uBAAB\uC774\uC57C."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "...\uC7A0\uAE50"
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: ???
+    portraitSprite: {fileID: 21300000, guid: 6c2276597967e4da18bd493cc3a0c715, type: 3}
+    dialogueText: "\uC774 \uAE30\uC5B5\uC740 \uC774\uBBF8 \uC0AD\uC81C\uB418\uC5C8\uB2E4."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: ???
+    portraitSprite: {fileID: 21300000, guid: 6c2276597967e4da18bd493cc3a0c715, type: 3}
+    dialogueText: "\uD5DB\uB41C \uAE30\uB300\uD558\uC9C0 \uB9D0\uACE0 \uB2E4\uC2DC
+      \uC78A\uC5B4\uB77C."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0

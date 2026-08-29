@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd245c2ff0724c26aa065b9c215d42c, type: 3}
+  m_Name: pianotutorial
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - speakerName: A
+    portraitSprite: {fileID: 21300000, guid: d79fd5d7dcf544c638cd6eb6159c7dd8, type: 3}
+    dialogueText: "\uB0B4\uAC00 \uB204\uB974\uB294\uB300\uB85C \uD55C\uBC88 \uB530\uB77C
+      \uB20C\uB7EC\uBCFC\uB798?"
+  - speakerName: A
+    portraitSprite: {fileID: 21300000, guid: d79fd5d7dcf544c638cd6eb6159c7dd8, type: 3}
+    dialogueText: "\uCC98\uC74C\uC5D0\uB294 \uB3C4(Q) - \uB808(W) - \uBBF8(E)"

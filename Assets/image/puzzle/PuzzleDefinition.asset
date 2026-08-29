@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf1af0315d62bed44b54c185ff19efb3, type: 3}
+  m_Name: PuzzleDefinition
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleDefinition
+  canvasSize: {x: 1920, y: 1080}
+  completedImage: {fileID: 21300000, guid: 70ccb34f8db5f484f9cd5a08d3296895, type: 3}
+  pieces:
+  - sprite: {fileID: 21300000, guid: 3a8a623ce20c09d4283f4ed3665ed8da, type: 3}
+    correctPosition: {x: 83.5, y: -319.5}
+    size: {x: 875, y: 433}
+  - sprite: {fileID: 21300000, guid: 0246cf0c29eba0f479cccfd2a96badc1, type: 3}
+    correctPosition: {x: 393, y: 2}
+    size: {x: 824, y: 1076}
+  - sprite: {fileID: 21300000, guid: 2f5de7783b9514e47909de1f0ce1e4ae, type: 3}
+    correctPosition: {x: -496, y: -272.5}
+    size: {x: 926, y: 527}
+  - sprite: {fileID: 21300000, guid: 82da292da5a79634abe3747ac1f0a073, type: 3}
+    correctPosition: {x: -135.5, y: 220}
+    size: {x: 869, y: 640}
+  - sprite: {fileID: 21300000, guid: 7106a17089a6b214882acb8635b7f2f5, type: 3}
+    correctPosition: {x: -366.5, y: 217}
+    size: {x: 695, y: 646}
+  - sprite: {fileID: 21300000, guid: 5ed9df27a83d03f4da9471489421deca, type: 3}
+    correctPosition: {x: 753, y: 2}
+    size: {x: 406, y: 1076}
+  - sprite: {fileID: 21300000, guid: 3d74216b047f8024fa1469fd2a9d8a0a, type: 3}
+    correctPosition: {x: -672, y: 2}
+    size: {x: 576, y: 1076}
+  scatterMargin: 140
+  snapDistance: 70
+  snapDuration: 0.12
+  completeFadeDuration: 0.8
+  hintDelay: 0.6

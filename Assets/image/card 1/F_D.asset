@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68fcef044cf50034fab0fea796bab391, type: 3}
+  m_Name: F_D
+  m_EditorClassIdentifier: Assembly-CSharp::SkillCard
+  cardName: F_D
+  cardImage: {fileID: 21300000, guid: c0bf6e68d65edcf46bcb377fb20d6a3e, type: 3}
+  cardDescription: "\uBC18\uACA9"
+  cardEffect: "\uACF5\uACA9 \uB300\uC0C1\uC5D0\uAC8C 5 \uB370\uBBF8\uC9C0"
+  cardType: 1
+  category: 0
+  attackPower: 0
+  defensePower: 3
+  targetType: 0
+  additionalEffects:
+  - effectType: 10
+    scope: 0
+    value: 5
+    duration: 0
+    condition: 0
+    multiplier: 0

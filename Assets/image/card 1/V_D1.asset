@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68fcef044cf50034fab0fea796bab391, type: 3}
+  m_Name: V_D1
+  m_EditorClassIdentifier: Assembly-CSharp::SkillCard
+  cardName: V_D1
+  cardImage: {fileID: 21300000, guid: 310088dd5d6a07047a88a18a5b3964c7, type: 3}
+  cardDescription: "\uD68C\uD53C"
+  cardEffect: "\uACF5\uACA9\uC744 \uD68C\uD53C\uD569\uB2C8\uB2E4"
+  cardType: 1
+  category: 0
+  attackPower: 0
+  defensePower: 3
+  targetType: 0
+  additionalEffects:
+  - effectType: 12
+    scope: 0
+    value: 0
+    duration: 0
+    condition: 0
+    multiplier: 0

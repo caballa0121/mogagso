@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68fcef044cf50034fab0fea796bab391, type: 3}
+  m_Name: T_D2
+  m_EditorClassIdentifier: Assembly-CSharp::SkillCard
+  cardName: T_D2
+  cardImage: {fileID: 21300000, guid: 2d27e968cfdd8b84cb04dad5c95e7d17, type: 3}
+  cardDescription: "\uBB34\uAE30 \uD30C\uAD34"
+  cardEffect: "\uACF5\uACA9\uC790\uC5D0\uAC8C 2 \uB9C8\uB514 \uB3D9\uC548 \uACF5\uACA9\uB825
+    -4"
+  cardType: 1
+  category: 0
+  attackPower: 0
+  defensePower: 2
+  targetType: 0
+  additionalEffects:
+  - effectType: 4
+    scope: 1
+    value: 4
+    duration: 2
+    condition: 0
+    multiplier: 0

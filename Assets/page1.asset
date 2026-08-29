@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd245c2ff0724c26aa065b9c215d42c, type: 3}
+  m_Name: page1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uC5ED\uC2DC \uC774 \uB369\uAD74\uC744 \uAC77\uC5B4\uB0B4\uBA70
+      \uB098\uC544\uAC00\uBA74 \uB418\uB294\uAC74\uAC00.."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uB9DD\uAC01"
+    portraitSprite: {fileID: 21300000, guid: 6c2276597967e4da18bd493cc3a0c715, type: 3}
+    dialogueText: ...
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uB369\uAD74\uC744 \uC9C0\uC6B8\uC218\uB85D \uBE60\uB974\uACE0
+      \uAC15\uD574\uC9C0\uB294 \uBAA8\uC591\uC774\uAD70. "
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uC124\uB839 \uADF8\uB807\uB2E4 \uD558\uB354\uB77C\uB3C4 \uBC14\uB00C\uB294\uAC74
+      \uC5C6\uC744\uAC70\uB2E4."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0

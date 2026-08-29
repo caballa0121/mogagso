@@ -1,0 +1,43 @@
+# ─────────────────────────────────────────────
+#  줄바꿈 처리 통일
+#  한 명은 Windows, 한 명은 Mac에서 작업하면
+#  줄바꿈이 달라져서 "고친 게 없는데 전부 바뀐 것"처럼 보입니다.
+#  이 설정이 그걸 막아줍니다.
+# ─────────────────────────────────────────────
+* text=auto
+
+*.cs        text diff=csharp
+*.md        text
+*.json      text
+*.txt       text
+*.shader    text
+*.hlsl      text
+*.cginc     text
+
+# ─────────────────────────────────────────────
+#  Unity 씬/프리팹 등은 텍스트지만 자동 병합이 매우 위험합니다.
+#  깃이 멋대로 합치지 않도록 병합 대상에서 제외합니다.
+#  (같은 씬을 두 사람이 동시에 고치지 마세요)
+# ─────────────────────────────────────────────
+*.unity      -merge
+*.prefab     -merge
+*.asset      -merge
+*.mat        -merge
+*.anim       -merge
+*.controller -merge
+*.physicMaterial2D -merge
+
+# ─────────────────────────────────────────────
+#  이미지 / 소리 / 영상 : 텍스트가 아니므로 건드리지 않게
+# ─────────────────────────────────────────────
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.psd  binary
+*.wav  binary
+*.mp3  binary
+*.ogg  binary
+*.mp4  binary
+*.ttf  binary
+*.otf  binary

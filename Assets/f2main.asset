@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd245c2ff0724c26aa065b9c215d42c, type: 3}
+  m_Name: f2main
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: ...
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uC774 \uACE1.."
+  - speakerName: B
+    portraitSprite: {fileID: 21300000, guid: b36fa6759d98c41f6bd0080a3c7c30dd, type: 3}
+    dialogueText: "\uC774\uB7F0 \uC2DC\uACE8\uC5D0\uC11C \uC74C\uC545\uC744 \uB4E4\uC5B4
+      \uBCF8 \uC801\uC774\uB098 \uC788\uACA0\uC5B4? \uC6B0\uB9AC \uB204\uB098\uB294
+      \uD53C\uC544\uB178\uB97C \uC815\uB9D0 \uC798 \uCE58\uAC70\uB4E0!"
+  - speakerName: A
+    portraitSprite: {fileID: 21300000, guid: d79fd5d7dcf544c638cd6eb6159c7dd8, type: 3}
+    dialogueText: "\uC654\uAD6C\uB098!"
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uB2F9\uC2E0\uC740 \uB204\uAD6C\uC9C0?"
+  - speakerName: A
+    portraitSprite: {fileID: 21300000, guid: d79fd5d7dcf544c638cd6eb6159c7dd8, type: 3}
+    dialogueText: "\uB610 \uBAA8\uB974\uB294 \uCC99\uD558\uB294 \uAC70\uC57C?"
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uB098\uB294 \uB2F9\uC2E0\uC744 \uBAA8\uB978\uB2E4."
+  - speakerName: A
+    portraitSprite: {fileID: 21300000, guid: d79fd5d7dcf544c638cd6eb6159c7dd8, type: 3}
+    dialogueText: "\uD6C4\uD6C4. \uADF8\uB798?"
+  - speakerName: A
+    portraitSprite: {fileID: 21300000, guid: d79fd5d7dcf544c638cd6eb6159c7dd8, type: 3}
+    dialogueText: "\uADF8\uB7FC \uC624\uB298\uC740 \uCC98\uC74C \uB9CC\uB09C \uAC78\uB85C
+      \uD560\uAE4C?"
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "...\uB9C8\uC74C\uB300\uB85C \uD574"
+  - speakerName: A
+    portraitSprite: {fileID: 21300000, guid: d79fd5d7dcf544c638cd6eb6159c7dd8, type: 3}
+    dialogueText: "\uC790, \uADF8\uB7FC \uC5EC\uAE30 \uC549\uC544"

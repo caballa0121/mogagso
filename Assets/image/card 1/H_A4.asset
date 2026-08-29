@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68fcef044cf50034fab0fea796bab391, type: 3}
+  m_Name: H_A4
+  m_EditorClassIdentifier: Assembly-CSharp::SkillCard
+  cardName: H_A4
+  cardImage: {fileID: 21300000, guid: b19f960ae81e0964b918773cc4d0fecd, type: 3}
+  cardDescription: "\uAC15\uD654 \uD608\uCCAD"
+  cardEffect: "\uCCB4\uB825 -4\n2\uD134\uAC04 \uACF5\uACA9\uB825 +4"
+  cardType: 0
+  attackPower: 0
+  defensePower: 0
+  targetType: 2
+  additionalEffects:
+  - effectType: 6
+    scope: 1
+    value: 4
+    duration: 2
+    condition: 0
+    multiplier: 0
+  - effectType: 17
+    scope: 1
+    value: 4
+    duration: 0
+    condition: 0
+    multiplier: 0

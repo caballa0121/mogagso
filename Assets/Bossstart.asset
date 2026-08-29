@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd245c2ff0724c26aa065b9c215d42c, type: 3}
+  m_Name: Bossstart
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - speakerName: ???
+    portraitSprite: {fileID: 21300000, guid: 6c2276597967e4da18bd493cc3a0c715, type: 3}
+    dialogueText: ...
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uC800 \uB140\uC11D.."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uC8FC\uC778\uACF5"
+    portraitSprite: {fileID: 21300000, guid: 8eb3d395f2697474eb4addf544314818, type: 3}
+    dialogueText: "\uC774 \uB290\uB08C\uC740 \uC0B4\uC758\uC778\uAC00.."
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: ???
+    portraitSprite: {fileID: 21300000, guid: 6c2276597967e4da18bd493cc3a0c715, type: 3}
+    dialogueText: "\uBB34\uB85C \uB3CC\uC544\uAC00\uB77C"
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
+  - speakerName: "\uB9DD\uAC01"
+    portraitSprite: {fileID: 21300000, guid: 6c2276597967e4da18bd493cc3a0c715, type: 3}
+    dialogueText: "\uB108\uB3C4 \uAE30\uC5B5\uB3C4"
+    cutsceneSprite: {fileID: 0}
+    cutsceneBeforeLine: 0
